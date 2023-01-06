@@ -1,0 +1,4 @@
+Authors: Johannes Sjölund (wulax)
+
+- ammo/arrow.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
