@@ -1,4 +1,4 @@
-require("player")
+require ("player")
 
 function love.load()
     Player:load()
@@ -11,4 +11,3 @@ end
 function love.draw()
     Player:draw()
 end
-
